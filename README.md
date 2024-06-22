@@ -25,5 +25,4 @@
 - `ap.py`: The main script to run the web application using Streamlit.
 - `main.ipynb`: Jupyter notebook used for training the machine learning model.
 - `UpdatedResumeDataSet.csv`: Dataset used for training the model.
-- `Images/`: Directory containing images used in the web application.
 - `requirements.txt`: List of dependencies required to run the application.
