@@ -26,4 +26,10 @@
 - `main.ipynb`: Jupyter notebook used for training the machine learning model.
 - `UpdatedResumeDataSet.csv`: Dataset used for training the model.
 - `requirements.txt`: List of dependencies required to run the application.
-- `main_tools.zip`: contains clf.pkl and tfidfd.pkl files, which are required to run ap.py scripy.
+- `main_tools.zip`: contains clf.pkl and tfidfd.pkl files, which are required to run ap.py script.
+
+
+![Screenshot 2024-06-22 120428](https://github.com/Nikhi-lesh/Resume-Screen/assets/93258241/f6a9c376-06b4-4cc4-baa5-1b7670828730)
+
+![Screenshot 2024-06-22 120506](https://github.com/Nikhi-lesh/Resume-Screen/assets/93258241/9f59087f-781b-4753-9a37-52826c838538)
+
